@@ -1,10 +1,7 @@
-build:
-	ninja -C build
-	make run
+.PHONY: build run all
 
-run:
-	import .env
-	./
+default:
+	ninja -C build
 
 all:
 	cmake -B build -G "Ninja"
