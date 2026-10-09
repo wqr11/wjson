@@ -1,0 +1,3 @@
+C:/Users/wqr/Desktop/wjson/build/CMakeFiles/wjson.dir
+C:/Users/wqr/Desktop/wjson/build/CMakeFiles/edit_cache.dir
+C:/Users/wqr/Desktop/wjson/build/CMakeFiles/rebuild_cache.dir
